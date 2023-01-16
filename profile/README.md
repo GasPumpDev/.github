@@ -1,6 +1,19 @@
-## Hi there 👋
+# 🙋‍♀️Intro 
+⛽ GasPump is the one stop shop for Fuel Network NFTs. The robust NFT standard, SDK, & boilerplate code to let any developer + brand launch NFTs in < 20 minutes.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - Why fuel?
+# 🌈 Contribution guidelines
+In order to contribute, just make a PR. 
+
+# 🚴🏼‍♀️ Roadmap
+- Launch of Robust NFT Standard
+- Sway Based SDK
+- Front End
+- Front End Boilerplate Code Integrated
+- Official Product Launch
+
+
+# 📚 Resources
+- Twitter https://twitter.com/GasPumpXYZ
+- Blog https://medium.com/@gaspump
+- Website https://gaspump.xyz
+- Docs
