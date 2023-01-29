@@ -16,4 +16,4 @@ In order to contribute, just make a PR.
 - Twitter https://twitter.com/GasPumpXYZ
 - Blog https://medium.com/@gaspump
 - Website https://gaspump.xyz
-- Docs
+- Docs https://docs.gaspump.xyz
